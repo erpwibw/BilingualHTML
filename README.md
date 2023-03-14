@@ -4,7 +4,7 @@
 A HTML webpage translation tool implemented with Python and ChatGPT API, which can translate local HTML webpages in batch into bilingual versions in Chinese and English.
 
 ---
-## 🌟用chatGPT API 制作双语网页或电子书
+## 🌟用 chatGPT API 制作双语网页或电子书
 
 
 参考 [Minja](https://twitter.com/Minja_Rin) 的[将外文电子书翻译成双语对照版本，并在任何设备上阅读](https://utgd.net/article/10001) 和 Github 上的 ChatGPT [bilingual_book_maker
