@@ -27,8 +27,7 @@ A HTML webpage translation tool implemented with Python and ChatGPT API, which c
 
 ![image](https://user-images.githubusercontent.com/23517447/225020706-60c53a3e-e05b-43a7-a74d-a2aeb5bde4f5.png)
 
-结合 [Minja](https://twitter.com/Minja_Rin) 介绍的保存网页、拆 epub 电子书、在 Kindle 阅读网页等见 [UNTAG 网站](https://utgd.net)，似乎没有什么可以阻挡我们阅读的脚步了。
-
+结合 [Minja](https://twitter.com/Minja_Rin) 介绍的保存网页、拆 epub 电子书、在 Kindle 阅读网页等（见 [UNTAG 网站](https://utgd.net)），我们阅读的脚步再一次向前迈进🚀
 
 ### 🤔做这个脚本的原因是：
 - 双语电子书项目功能太复杂了
