@@ -15,8 +15,7 @@ A HTML webpage translation tool implemented with Python and ChatGPT API, which c
 - 本地 HTML 文件批量制作为简体中文的双语对照格式（图1）
 - 尽量保留原有的 HTML 格式（图2）
 - 中断后可以继续翻译（图3）
-- 显示翻译进度（图4）
-- 显示花费时间和预计时间（图5）
+- 显示翻译进度、花费时间和预计时间（图4）
 
 结合 [Minja](https://twitter.com/Minja_Rin) 介绍的保存网页、拆 epub 电子书、在 Kindle 阅读网页等见 [UNTAG 网站](https://utgd.net)，似乎没有什么可以阻挡我们阅读的脚步了。
 
