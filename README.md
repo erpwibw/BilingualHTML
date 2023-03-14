@@ -48,8 +48,9 @@ A HTML webpage translation tool implemented with Python and ChatGPT API, which c
 - 运行 Python 脚本，即可开始翻译并制作双语对照 HTML
   - 翻译结果会暂存在 `test/translated.json`。单个 HTML 文件翻译完成后，会创建一个 HTML文件名_cn.html 文件并将翻译结果一起写入。
   - 翻译进度会暂存在 `test/index.json`，用来记录翻译到哪一个文件。
+  - 翻译时所有输出保存在 `test/log.txt` 文件中，作为调试的参考
   - 翻译中断时再次运行脚本即可。
-  - 翻译结束后所有暂存文件都会删除。
+  - 翻译结束后暂存文件都会删除（`log.txt`除外，不需要的话需手动删除）。
 
 
 ### 🤖**这是我使用的 prompt：**
